@@ -3,7 +3,8 @@
 Prompt packs made by players of the VRChat world "No Hard Feelings".
 The world reads these files; nothing here is code.
 
-- `packs/NNNN.txt` is one pack. A host enters the number in Host options to load it.
+- `packs/NNNN.txt` is one pack. A host enters the four-digit code in Host options to load it.
+- Codes run from 1000 to 9999. New packs are numbered upward from 1000. 9999 is the example pack.
 - `index.txt` lists the packs that are public.
 
 ## Pack file format
