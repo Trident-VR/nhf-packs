@@ -5,7 +5,8 @@ The world reads these files; nothing here is code.
 
 - `packs/NNNN.txt` is one pack. A host enters the four-digit code in Host options to load it.
 - Codes run from 1000 to 9999. New packs are numbered upward from 1000. 9999 is the example pack.
-- `index.txt` lists the packs that are public.
+- `index.txt` is the list the game shows on its Community Prompts page.
+- Every pack is public. There are no private packs: anyone can read these files.
 
 ## Pack file format
 
@@ -19,4 +20,4 @@ One prompt per line.
 
 ## index.txt format
 
-One public pack per line: `code|name|author|prompt count|mature (0 or 1)|featured (0 or 1)`
+One listed pack per line: `code|name|author|prompt count|mature (0 or 1)|featured (0 or 1)`
