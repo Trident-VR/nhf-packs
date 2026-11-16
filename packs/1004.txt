@@ -1,9 +1,0 @@
-name=Daily
-author=ZyTheFoxxy
-mature=0
----
-Who would you write a diary entry for if you could step into someone’s life?
-Who would you create a short story about that never ends?
-Who would you imagine as the protagonist of a sci‑fi romance?
-Who would you craft a mystery around in a small town?
-Who would you write a poem about, using only colors as metaphors?
