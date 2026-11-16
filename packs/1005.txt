@@ -1,9 +1,0 @@
-name=Fantasy Heroes
-author=ZyTheFoxxy
-mature=0
----
-Who would you pick as the fearless leader of a dragon‑slaying quest?
-Who would you trust to guard the enchanted forest’s ancient gate?
-Who would you choose to be the wizard’s apprentice in a realm of magic?
-Who would you send to negotiate peace between rival kingdoms?
-Who would you enlist to retrieve a lost treasure from a cursed temple?
