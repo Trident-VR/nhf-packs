@@ -1,0 +1,39 @@
+name=birthday bash 1
+author=swim
+mature=1
+---
+Who's most likely to convince everyone to do something dumb?
+Who's most likely to start a dance circle?
+Who's most likely to be a cool superhero? (Person in the center should pick a sidekick.)
+The person who seems the most secretly competitive.
+The person most likely to accidentally join the wrong instance.
+The person who probably has the best hidden talent.
+The person who would make the best parent.
+The person most likely to leave a text unread for a week.
+The person most likely to impulsively buy something expensive.
+The person who would be the hardest to prank.
+The person most likely to forget the plans.
+Someone you'd like to know better.
+The person most likely to go viral.
+The person most likely to get sidetracked.
+The person who has a tendency to get tongue-tied.
+The person who seems the most mysterious.
+The person who seems different from their first impression.
+The person whose voice surprised you in the karaoke room.
+The person who'd die first in a horror movie.
+The person likely to be muted while talking for 5 minutes.
+The person who'd be the best movie villain.
+Who's most likely to be the first to try something new?
+Who's most likely to play pranks on people?
+Most likely to curse the opponents out on chat after losing a casual online match.
+Most likely to say "I'm going to sleep" just to still be playing something else 3 hours later.
+Most likely to convince people to buy a game just to never play it together.
+Who is the most likely to make a deal with the devil?
+Who would win the Hunger Games?
+Who would dominate a buffet?
+Who would actually be a good president? (Say a short campaign speech when chosen.)
+Who is the first to die in a zombie apocalypse?
+Who is most likely to laugh during a funeral?
+Who's most likely to own an island?
+Who's most likely to gamble all their life savings away?
+Who has the biggest "I know exactly what I'm doing" energy?
